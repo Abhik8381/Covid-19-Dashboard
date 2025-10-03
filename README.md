@@ -41,5 +41,6 @@ KPI Indicators:
 📌 Purpose
 
 This project was developed as part of a data analytics learning journey to demonstrate skills in data visualization, business intelligence reporting, and Covid-19 data exploration using Power BI.
+Example : https://github.com/Abhik8381/Covid-19-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
 
